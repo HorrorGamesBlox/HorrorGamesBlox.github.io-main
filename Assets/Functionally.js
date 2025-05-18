@@ -326,15 +326,6 @@ const siteOnline = true;
                   <p>Yes! We are committed to regularly improving the game and often release updates on a weekly basis. These updates may include new content, bug fixes, gameplay improvements, and special events to keep the experience fresh and engaging for our community. Stay tuned on our Discord Communications Server and official channels for the <a href="#blog" class="text-pink-500 underline">latest news blog page</a>, and announcements.</p>
                 </div>
               </div>
-              <div class="faq-item bg-slate-800 rounded-md p-4">
-                <div class="faq-question cursor-pointer select-none flex justify-between items-center font-semibold text-lg" tabindex="0" role="button" aria-expanded="false" aria-controls="faq4-answer" id="faq4-question">
-                  What is your typical project timeline?
-                  <i class="fas fa-chevron-down faq-icon transition-transform"></i>
-                </div>
-                <div class="faq-answer mt-2 text-slate-300" id="faq4-answer" aria-labelledby="faq4-question" hidden>
-                  <p>Timelines vary depending on project scope, but we work closely with clients to meet deadlines efficiently.</p>
-                </div>
-              </div>
             </div>
           </section>
         `,
@@ -342,23 +333,23 @@ const siteOnline = true;
           <section class="max-w-4xl mx-auto px-6 py-20">
             <h1 class="text-4xl font-extrabold mb-6 text-center">Terms of Use</h1>
             <p class="leading-relaxed mb-6">
-              Welcome to DoBig Studios. By accessing or using our website and services, you agree to comply with and be bound by the following terms and conditions.
+              Welcome to HorrorGamesBlox Studios. By accessing or using our website and services, you agree to abide by and be bound to these terms and conditions.
             </p>
             <h2 class="text-2xl font-semibold mb-3">Use of Services</h2>
             <p class="leading-relaxed mb-6">
-              You agree to use our services only for lawful purposes and in a way that does not infringe the rights of others or restrict their use and enjoyment of the services.
+              By using our services, you agree to do so only for lawful purposes and in a manner that does not violate the rights of others or interfere with their ability to use and enjoy the services.
             </p>
             <h2 class="text-2xl font-semibold mb-3">Intellectual Property</h2>
             <p class="leading-relaxed mb-6">
-              All content, trademarks, and data on this site are the property of DoBig Studios or its licensors and are protected by intellectual property laws.
+               All content, trademarks, and data on this site are the property of HorrorGamesBlox Studios or its licensors and are protected by applicable intellectual property laws.
             </p>
             <h2 class="text-2xl font-semibold mb-3">Limitation of Liability</h2>
             <p class="leading-relaxed mb-6">
-              DoBig Studios is not liable for any damages arising from the use or inability to use our services.
+              HorrorGamesBlox Studios is not liable for any damages resulting from the use of, or inability to use, our services or experiences.
             </p>
             <h2 class="text-2xl font-semibold mb-3">Changes to Terms</h2>
             <p class="leading-relaxed">
-              We reserve the right to update these terms at any time. Continued use of our services constitutes acceptance of any changes.
+              We reserve the right to modify these terms at any time. By continuing to use our services, you agree to accept any changes made.
             </p>
           </section>
         `,
@@ -366,23 +357,23 @@ const siteOnline = true;
           <section class="max-w-4xl mx-auto px-6 py-20">
             <h1 class="text-4xl font-extrabold mb-6 text-center">Privacy Policy</h1>
             <p class="leading-relaxed mb-6">
-              DoBig Studios values your privacy and is committed to protecting your personal information.
+              HorrorGamesBlox Studios values your privacy and is dedicated to safeguarding your personal information.
             </p>
             <h2 class="text-2xl font-semibold mb-3">Information We Collect</h2>
             <p class="leading-relaxed mb-6">
-              We collect information you provide directly to us, such as contact details and project information.
+              We collect information that you provide directly to us, including contact details and project-related information.
             </p>
             <h2 class="text-2xl font-semibold mb-3">How We Use Information</h2>
             <p class="leading-relaxed mb-6">
-              Your information is used to provide and improve our services, communicate with you, and comply with legal obligations.
+              We use your information to deliver and enhance our services, communicate with you, and fulfill legal obligations.
             </p>
             <h2 class="text-2xl font-semibold mb-3">Data Security</h2>
             <p class="leading-relaxed mb-6">
-              We implement reasonable security measures to protect your data from unauthorized access.
+              We implement reasonable security measures to safeguard your data against unauthorized access.
             </p>
             <h2 class="text-2xl font-semibold mb-3">Your Rights</h2>
             <p class="leading-relaxed">
-              You have the right to access, correct, or delete your personal information. Contact us for any privacy concerns.
+              You have the right to access, correct, or delete your personal information. Please contact us if you have any privacy concerns.
             </p>
           </section>
         `
