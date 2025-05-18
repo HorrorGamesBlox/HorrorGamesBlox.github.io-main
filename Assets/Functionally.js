@@ -35,7 +35,7 @@ const siteOnline = true;
           subgenre: "Story",
           platformSupport: ["windows", "mobile"],
           gamePlatform: "Roblox",
-          isPublic: false, // Add this flag to control play button visibility
+          isPublic: true, // Add this flag to control play button visibility
           details: `
             <h3 class="text-3xl font-bold mb-4">JumpQuest</h3>
             <button id="play-now-btn" class="btn-primary px-6 py-3 rounded-md font-semibold flex items-center justify-center gap-2 bg-pink-500 hover:bg-pink-600" type="button" aria-label="Play JumpQuest Now">
