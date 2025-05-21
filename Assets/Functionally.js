@@ -9,7 +9,7 @@ const siteOnline = true;
           <h1 class="text-5xl font-extrabold text-pink-500 mb-4">We’ll Be Back Soon</h1>
           <p class="text-lg max-w-xl text-slate-300 mb-6">We’re currently performing maintenance and working hard to get everything back online as quickly as possible.</p>
           <p class="text-sm max-w-md text-slate-400">
-            Please visit our <a href="https://horrorgamesbloxe.instatus.com/" target="_blank" rel="noopener noreferrer" class="text-pink-500 underline hover:text-pink-600">status page</a> for more information.
+            Please visit our <a href="https://status-horrorgamesblox.instatus.com/" target="_blank" rel="noopener noreferrer" class="text-pink-500 underline hover:text-pink-600">status page</a> for more information.
           </p>
         </main>
       `;
