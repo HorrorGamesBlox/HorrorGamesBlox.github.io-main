@@ -454,10 +454,10 @@ const siteOnline = true;
           </div>
           <div class="max-w-7xl mx-auto px-6 mt-12 flex flex-col md:flex-row justify-between items-center space-y-6 md:space-y-0 border-t border-slate-700 pt-6">
             <div class="flex items-center space-x-3">
-              <img alt="DoBig Studios logo small black and white stylized DB letters" class="w-10 h-10 object-contain" height="40" src="https://static.wixstatic.com/media/66c613_62a0a63047194abba1e5cbfe4569a7da~mv2.png" width="40" />
+              <img alt="HorrorGamesBlox logo small" class="w-10 h-10 object-contain" height="40" src="https://static.wixstatic.com/media/66c613_62a0a63047194abba1e5cbfe4569a7da~mv2.png" width="40" />
               <span class="text-slate-50 font-semibold text-lg">HorrorGamesBlox</span>
             </div>
-            <p class="text-sm text-slate-300">© 2022-2024 HorrorGamesBlox. All rights reserved.</p>
+            <p class="text-sm text-slate-300">© 2022-2025 HorrorGamesBlox. All rights reserved.</p>
           </div>
         </footer>
       `;
