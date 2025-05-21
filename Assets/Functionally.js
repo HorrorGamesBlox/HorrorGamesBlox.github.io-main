@@ -384,7 +384,7 @@ const siteOnline = true;
         <header class="fixed top-0 left-0 w-full bg-slate-800 shadow-md z-50">
           <div class="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between flex-wrap md:flex-nowrap">
             <a href="#home" class="flex items-center space-x-2 text-slate-50">
-              <img alt="DoBig Studios logo, stylized DB letters in black and white" class="w-12 h-12 object-contain" height="48" src="https://static.wixstatic.com/media/66c613_62a0a63047194abba1e5cbfe4569a7da~mv2.png" width="48" />
+              <img alt="DoBig Studios logo, stylized DB letters in black and white" class="w-12 h-12 object-contain" height="48" src="https://static.wixstatic.com/media/66c613_39c6070b3016431fa3e667007dc951e2~mv2.png" width="48" />
             </a>
             <nav class="hidden md:flex space-x-8 font-semibold text-slate-200 flex-wrap" id="nav-links">
               <a href="#home" class="nav-link hover:text-pink-500 transition whitespace-nowrap">Home</a>
