@@ -1,1 +1,1 @@
-# HorrorGamesBlox.github.io-main
+# HorrorGamesBlox.github.io
